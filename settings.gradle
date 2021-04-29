@@ -1,0 +1,3 @@
+include ':TestTriangle'
+include ':app'
+rootProject.name = "TestTiangle"
